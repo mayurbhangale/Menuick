@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_menu_button_expand_material_animator.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_menu_button_overflow_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_menu_button_expand_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_foreground_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_foreground_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_foreground_kitkat_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_menu_button_expand.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable-v21/card_kitkat_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_kitkat_selector.xml"
+    }
+]

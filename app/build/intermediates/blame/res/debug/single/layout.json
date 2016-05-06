@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/list_card_undo_material_message.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_material_message.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/supporting_text_24dp.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/supporting_text_24dp.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_base_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_base_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_inner_base_expand.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_expand.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_undo_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_undo_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_base_header_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_base_header_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_base_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/inner_base_expand.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_expand.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_basic_image_buttons_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_basic_image_buttons_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/list_card_undo_message.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_message.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_shadow_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_shadow_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_list_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_list_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/row_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/src/main/res/layout/row_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_small_image_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_small_image_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/list_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_inner_base_main.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_main.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_header_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_header_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_inner_base_header.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_header.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/list_card_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_view_row.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/src/main/res/layout/card_view_row.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_section_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_section_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_overlay_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_overlay_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_list_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_list_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/form_activity.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/src/main/res/layout/form_activity.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_withlist_empty.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_withlist_empty.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_image_with_buttons_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_image_with_buttons_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/rich_media_image.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/rich_media_image.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_inner_base_main_cardwithlist.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_cardwithlist_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_cardwithlist_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_list_expandable_children_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_list_expandable_children_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/headline_16dp.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/headline_16dp.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_card_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/list_card_undo_materialmobile_message.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_materialmobile_message.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/headline_24dp.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/headline_24dp.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/inner_base_main.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_main.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/inner_base_header.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_header.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/card_thumbnail_overlay_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_thumbnail_overlay_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_big_image_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_big_image_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_basic_buttons_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_basic_buttons_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/base_withlist_progress.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_withlist_progress.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/headline_image.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/headline_image.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/material_welcome_card_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/material_welcome_card_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/divider.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/divider.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/inner_base_main_cardwithlist.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/supporting_text_16dp.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/res/layout/supporting_text_16dp.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/native_list_card_thumbnail_layout.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
+    }
+]
