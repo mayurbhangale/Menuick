@@ -51,13 +51,17 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
                 if (position == 0) {
-                    webView.loadUrl("http://goo.gl/forms/ALWq5olUdG"); //geoSK@N
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/amrapali.html"); //geoSK@N
                 } else if (position == 1) {
-                    webView.loadUrl("http://goo.gl/forms/4avxQWKLSM"); //BusinessClub
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/annapurna.html"); //BusinessClub
                 } else if (position == 2) {
-                    webView.loadUrl("http://goo.gl/forms/6FTTq87Uj4"); //NFS
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/omsai.html"); //NFS
                 } else if (position == 3) {
-                    webView.loadUrl("http://goo.gl/forms/Jl5mKebhK0"); // C Venture
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/shreeganesh.html"); // C Venture
+                } else if (position == 4) {
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/durgaprasad.html"); // C Venture
+                } else if (position == 5) {
+                    webView.loadUrl("http://mayurbhangale.bitbucket.org/kamla.html"); // C Venture
                 }
             }
         });
@@ -82,8 +86,6 @@ public class MainActivity extends AppCompatActivity {
             results.add(index, obj2);
             DataObject obj3 = new DataObject("Annapurna Mess","");
             results.add(index, obj3);
-            DataObject obj4 = new DataObject("Sahdev Mess","");
-            results.add(index, obj4);
             DataObject obj5 = new DataObject("Amrapali Mess","");
             results.add(index, obj5);
         }
