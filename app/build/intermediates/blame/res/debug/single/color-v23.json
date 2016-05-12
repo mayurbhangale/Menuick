@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/color-v23/abc_color_highlight_material.xml"
     }

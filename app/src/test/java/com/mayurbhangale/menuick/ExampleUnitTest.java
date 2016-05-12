@@ -1,4 +1,4 @@
-package com.mayurbhangale.menuick;
+package com.mayurbhangale.thaali;
 
 import org.junit.Test;
 

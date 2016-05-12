@@ -6,77 +6,126 @@
         jumboMode="false"
         revision="23.0.2"
         sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.0_b38c1da94933e4de4c87b963751721c77578360c.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.1.0_b38c1da94933e4de4c87b963751721c77578360c.jar" />
     </item>
     <item
-        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_287aba8b6e04e44b8bdbd5aebe9390d401b7af52.jar" />
-    </item>
-    <item
-        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_1054858a2d48decf39c12024271ffb5198076dc1.jar" />
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.daimajia.androidanimations-library-1.1.3_57f8ae53aac07664cc5cddc7e99b1b1d613b557b.jar" />
     </item>
     <item
         jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_75844cb6b99d3e29ba85c3fd8eaa408938124e66.jar" />
-    </item>
-    <item
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_75844cb6b99d3e29ba85c3fd8eaa408938124e66.jar" />
     </item>
     <item
         jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_1c3df595531cec9e2c46f80711cb9aa091fcc09d.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.1.0_1c3df595531cec9e2c46f80711cb9aa091fcc09d.jar" />
     </item>
     <item
         jar="/home/mayur/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_189023b1c22bfc7b67817a6967b2c853b40a2eea.jar" />
-    </item>
-    <item
-        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_299a3cd2c335af22b01edc17c5def38f820477c4.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_189023b1c22bfc7b67817a6967b2c853b40a2eea.jar" />
     </item>
     <item
         jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_801d0d726b84ab2f960ad705a0af827273e98e00.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_801d0d726b84ab2f960ad705a0af827273e98e00.jar" />
     </item>
     <item
         jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.1.2/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="07cb37d60b2949131813d532fea644b2cd7d9a63">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/com.github.dexafree-materiallist-3.1.2_1e565c4fc68f9b2f540b4677494878a31604d51a.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.github.dexafree-materiallist-3.1.2_1e565c4fc68f9b2f540b4677494878a31604d51a.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_287aba8b6e04e44b8bdbd5aebe9390d401b7af52.jar" />
     </item>
     <item
         jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/debug/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.github.jorgecastilloprz-fillableloaders-1.02_8c7c94594c457cb691a71f40679016d9df28e12a.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_1054858a2d48decf39c12024271ffb5198076dc1.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.github.ViksaaSkool-AwesomeSplash-v1.0.0_e1a653b36b9ac4ded0a942ab02b8406e3f8b7cc8.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_299a3cd2c335af22b01edc17c5def38f820477c4.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_e4ddead4d1eafb608ded894d21cf0d885d17bc2e.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_d4f733fd4902f890d5e982ed2ce2adc4a8ec968f.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.github.ozodrukh-CircularReveal-1.1.1_ed2b3c1bb508eefdf05621e6d2e746cbef5b8543.jar" />
+    </item>
+    <item
+        jar="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/media/mayur/Studies/menuick/Menuick/app/build/intermediates/pre-dexed/release/com.daimajia.easing-library-1.0.1_7811a0dfebf4b3395906d693310feb998f7f1c1f.jar" />
     </item>
 
 </items>

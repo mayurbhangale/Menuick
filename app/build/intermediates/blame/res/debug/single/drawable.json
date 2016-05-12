@@ -1,79 +1,63 @@
 [
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_foreground_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\activated_foreground_card.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/activated_background_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/activated_background_card.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_undo.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_undo.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/pressed_background_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/pressed_background_card.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/activated_background_kitkat_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/activated_background_kitkat_card.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/activated_foreground_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/activated_foreground_card.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/activated_foreground_kitkat_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/activated_foreground_kitkat_card.xml"
-    },
-    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_expand_material_animator.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_expand_material_animator.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_expand_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_expand_material.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_kitkat_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_kitkat_selector.xml"
-    },
-    {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_rounded_overflow.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_rounded_overflow.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/pressed_background_kitkat_card.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/pressed_background_kitkat_card.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_overflow_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -84,12 +68,200 @@
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_kitkat_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\pressed_background_kitkat_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_overflow.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_overflow.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\native_card_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\native_card_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand_material_animator.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_undo.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_undo.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_rounded_overflow.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_rounded_overflow.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_foreground_kitkat_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\activated_foreground_kitkat_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_multichoice_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_multichoice_selector.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_expand.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_kitkat_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_kitkat_selector.xml"
+    },
+    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_overflow.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_overflow.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shadow.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_shadow.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -108,87 +280,127 @@
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_background.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_background.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/native_card_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/native_card_selector.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_foreground_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_foreground_selector.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_foreground_kitkat_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_foreground_kitkat_selector.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/media/mayur/Studies/menuick/Menuick/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_rounded_overflow_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_rounded_overflow_selector.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_background.xml"
+    },
+    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_overflow_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_overflow_material.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_foreground_kitkat_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_foreground_kitkat_selector.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_foreground_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_foreground_selector.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_kitkat_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\activated_background_kitkat_card.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_selector.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_rounded_overflow_selector.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\card_menu_button_rounded_overflow_selector.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_menu_button_expand.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_menu_button_expand.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\pressed_background_card.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_shadow.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_shadow.xml"
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/card_multichoice_selector.xml",
-        "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable/card_multichoice_selector.xml"
-    },
-    {
         "merged": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_card.xml",
+        "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.cards\\cardslib-core\\2.1.0\\res\\drawable\\activated_background_card.xml"
     }
 ]
