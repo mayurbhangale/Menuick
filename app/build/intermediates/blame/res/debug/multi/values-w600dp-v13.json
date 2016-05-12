@@ -43,6 +43,49 @@
         ]
     },
     {
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 54,
+                        "endOffset": 169
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
         "map": [
             {
@@ -86,7 +129,7 @@
         ]
     },
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "outputFile": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -97,7 +140,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -116,7 +159,7 @@
                     "endOffset": 169
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-w600dp-v13/values-w600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

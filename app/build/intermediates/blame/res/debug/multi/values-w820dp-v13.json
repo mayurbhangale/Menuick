@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 295,
                         "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 348
                     }
                 }
             }
@@ -66,6 +66,30 @@
                         "startOffset": 295,
                         "endColumn": 57,
                         "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
                     }
                 }
             }

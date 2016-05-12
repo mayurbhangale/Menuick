@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml",
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-nb\\values-nb.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 107,
-                    "endOffset": 208
+                    "endOffset": 158
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 213,
+                    "startOffset": 163,
                     "endColumn": 108,
-                    "endOffset": 317
+                    "endOffset": 267
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 322,
+                    "startOffset": 272,
                     "endColumn": 124,
-                    "endOffset": 442
+                    "endOffset": 392
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 447,
+                    "startOffset": 397,
                     "endColumn": 94,
-                    "endOffset": 537
+                    "endOffset": 487
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 542,
+                    "startOffset": 492,
                     "endColumn": 113,
-                    "endOffset": 651
+                    "endOffset": 601
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 656,
+                    "startOffset": 606,
                     "endColumn": 85,
-                    "endOffset": 737
+                    "endOffset": 687
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 742,
+                    "startOffset": 692,
                     "endColumn": 99,
-                    "endOffset": 837
+                    "endOffset": 787
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 842,
+                    "startOffset": 792,
                     "endColumn": 112,
-                    "endOffset": 950
+                    "endOffset": 900
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 955,
+                    "startOffset": 905,
                     "endColumn": 75,
-                    "endOffset": 1026
+                    "endOffset": 976
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1031,
+                    "startOffset": 981,
                     "endColumn": 75,
-                    "endOffset": 1102
+                    "endOffset": 1052
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1107,
+                    "startOffset": 1057,
                     "endColumn": 79,
-                    "endOffset": 1182
+                    "endOffset": 1132
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1187,
+                    "startOffset": 1137,
                     "endColumn": 102,
-                    "endOffset": 1285
+                    "endOffset": 1235
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1290,
+                    "startOffset": 1240,
                     "endColumn": 98,
-                    "endOffset": 1384
+                    "endOffset": 1334
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1389,
+                    "startOffset": 1339,
                     "endColumn": 95,
-                    "endOffset": 1480
+                    "endOffset": 1430
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1485,
+                    "startOffset": 1435,
                     "endColumn": 103,
-                    "endOffset": 1584
+                    "endOffset": 1534
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1589,
+                    "startOffset": 1539,
                     "endColumn": 97,
-                    "endOffset": 1682
+                    "endOffset": 1632
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1687,
+                    "startOffset": 1637,
                     "endColumn": 100,
-                    "endOffset": 1783
+                    "endOffset": 1733
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1788,
+                    "startOffset": 1738,
                     "endColumn": 115,
-                    "endOffset": 1899
+                    "endOffset": 1849
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1904,
+                    "startOffset": 1854,
                     "endColumn": 96,
-                    "endOffset": 1996
+                    "endOffset": 1946
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,31 +367,12 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2001,
-                    "endColumn": 248,
-                    "endOffset": 2245
-                },
-                "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-nb/common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 252,
-                        "endOffset": 418
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2250,
+                    "startOffset": 1951,
                     "endColumn": 100,
-                    "endOffset": 2346
+                    "endOffset": 2047
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -808,18 +789,18 @@
         ]
     },
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-nb\\values-nb.xml",
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 107,
-                    "endOffset": 158
+                    "endOffset": 208
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -833,12 +814,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 163,
+                    "startOffset": 213,
                     "endColumn": 108,
-                    "endOffset": 267
+                    "endOffset": 317
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -852,12 +833,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 272,
+                    "startOffset": 322,
                     "endColumn": 124,
-                    "endOffset": 392
+                    "endOffset": 442
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -871,12 +852,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 397,
+                    "startOffset": 447,
                     "endColumn": 94,
-                    "endOffset": 487
+                    "endOffset": 537
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -890,12 +871,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 492,
+                    "startOffset": 542,
                     "endColumn": 113,
-                    "endOffset": 601
+                    "endOffset": 651
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -909,12 +890,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 606,
+                    "startOffset": 656,
                     "endColumn": 85,
-                    "endOffset": 687
+                    "endOffset": 737
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -928,12 +909,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 692,
+                    "startOffset": 742,
                     "endColumn": 99,
-                    "endOffset": 787
+                    "endOffset": 837
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -947,12 +928,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 792,
+                    "startOffset": 842,
                     "endColumn": 112,
-                    "endOffset": 900
+                    "endOffset": 950
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -966,12 +947,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 905,
+                    "startOffset": 955,
                     "endColumn": 75,
-                    "endOffset": 976
+                    "endOffset": 1026
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -985,12 +966,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 981,
+                    "startOffset": 1031,
                     "endColumn": 75,
-                    "endOffset": 1052
+                    "endOffset": 1102
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1004,12 +985,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1057,
+                    "startOffset": 1107,
                     "endColumn": 79,
-                    "endOffset": 1132
+                    "endOffset": 1182
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1023,12 +1004,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1137,
+                    "startOffset": 1187,
                     "endColumn": 102,
-                    "endOffset": 1235
+                    "endOffset": 1285
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1042,12 +1023,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1240,
+                    "startOffset": 1290,
                     "endColumn": 98,
-                    "endOffset": 1334
+                    "endOffset": 1384
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1061,12 +1042,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1339,
+                    "startOffset": 1389,
                     "endColumn": 95,
-                    "endOffset": 1430
+                    "endOffset": 1480
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1080,12 +1061,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1435,
+                    "startOffset": 1485,
                     "endColumn": 103,
-                    "endOffset": 1534
+                    "endOffset": 1584
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1099,12 +1080,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1539,
+                    "startOffset": 1589,
                     "endColumn": 97,
-                    "endOffset": 1632
+                    "endOffset": 1682
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1118,12 +1099,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1637,
+                    "startOffset": 1687,
                     "endColumn": 100,
-                    "endOffset": 1733
+                    "endOffset": 1783
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1137,12 +1118,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1738,
+                    "startOffset": 1788,
                     "endColumn": 115,
-                    "endOffset": 1849
+                    "endOffset": 1899
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1156,12 +1137,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1854,
+                    "startOffset": 1904,
                     "endColumn": 96,
-                    "endOffset": 1946
+                    "endOffset": 1996
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1175,12 +1156,435 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1951,
-                    "endColumn": 100,
-                    "endOffset": 2047
+                    "startOffset": 2001,
+                    "endColumn": 248,
+                    "endOffset": 2245
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-nb\\values-nb.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-nb/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 252,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endColumn": 100,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 100,
+                        "endOffset": 2047
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 108,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 108,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 124,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 124,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 94,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 94,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 113,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 113,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 85,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 99,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 99,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 112,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 112,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 75,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 75,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 75,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 75,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 79,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 79,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endColumn": 102,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 102,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1290,
+                    "endColumn": 98,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1240,
+                        "endColumn": 98,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 95,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 95,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 103,
+                    "endOffset": 1584
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 103,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1589,
+                    "endColumn": 97,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 97,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 100,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endColumn": 100,
+                        "endOffset": 1733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 115,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1738,
+                        "endColumn": 115,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1904,
+                    "endColumn": 96,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 96,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2001,
+                    "endColumn": 248,
+                    "endOffset": 2245
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-nb/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 252,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endColumn": 100,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-nb/values-nb.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

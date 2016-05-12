@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/anshul/AndroidStudioProjects/Menuick/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },

@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-is-rIS\\values-is-rIS.xml",
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-is-rIS\\values-is-rIS.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 99,
-                    "endOffset": 150
+                    "endOffset": 200
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 155,
+                    "startOffset": 205,
                     "endColumn": 107,
-                    "endOffset": 258
+                    "endOffset": 308
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 263,
+                    "startOffset": 313,
                     "endColumn": 122,
-                    "endOffset": 381
+                    "endOffset": 431
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 386,
+                    "startOffset": 436,
                     "endColumn": 96,
-                    "endOffset": 478
+                    "endOffset": 528
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 483,
+                    "startOffset": 533,
                     "endColumn": 111,
-                    "endOffset": 590
+                    "endOffset": 640
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 595,
+                    "startOffset": 645,
                     "endColumn": 84,
-                    "endOffset": 675
+                    "endOffset": 725
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 680,
+                    "startOffset": 730,
                     "endColumn": 100,
-                    "endOffset": 776
+                    "endOffset": 826
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 781,
+                    "startOffset": 831,
                     "endColumn": 113,
-                    "endOffset": 890
+                    "endOffset": 940
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 895,
+                    "startOffset": 945,
                     "endColumn": 79,
-                    "endOffset": 970
+                    "endOffset": 1020
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 975,
+                    "startOffset": 1025,
                     "endColumn": 79,
-                    "endOffset": 1050
+                    "endOffset": 1100
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1055,
+                    "startOffset": 1105,
                     "endColumn": 80,
-                    "endOffset": 1131
+                    "endOffset": 1181
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1136,
+                    "startOffset": 1186,
                     "endColumn": 109,
-                    "endOffset": 1241
+                    "endOffset": 1291
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1246,
+                    "startOffset": 1296,
                     "endColumn": 107,
-                    "endOffset": 1349
+                    "endOffset": 1399
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1354,
+                    "startOffset": 1404,
                     "endColumn": 97,
-                    "endOffset": 1447
+                    "endOffset": 1497
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1452,
+                    "startOffset": 1502,
                     "endColumn": 108,
-                    "endOffset": 1556
+                    "endOffset": 1606
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1561,
+                    "startOffset": 1611,
                     "endColumn": 98,
-                    "endOffset": 1655
+                    "endOffset": 1705
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1660,
+                    "startOffset": 1710,
                     "endColumn": 102,
-                    "endOffset": 1758
+                    "endOffset": 1808
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1763,
+                    "startOffset": 1813,
                     "endColumn": 117,
-                    "endOffset": 1876
+                    "endOffset": 1926
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1881,
+                    "startOffset": 1931,
                     "endColumn": 97,
-                    "endOffset": 1974
+                    "endOffset": 2024
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,12 +367,435 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1979,
-                    "endColumn": 100,
-                    "endOffset": 2075
+                    "startOffset": 2029,
+                    "endColumn": 257,
+                    "endOffset": 2282
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-is-rIS\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 261,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2287,
+                    "endColumn": 100,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1979,
+                        "endColumn": 100,
+                        "endOffset": 2075
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/values-is-rIS/values-is-rIS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 99,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 99,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 107,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 107,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 122,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 122,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 96,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 96,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 111,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 111,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 84,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 84,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 100,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 100,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 113,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 113,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 79,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 79,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endColumn": 79,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 79,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 80,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 80,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 109,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1136,
+                        "endColumn": 109,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1296,
+                    "endColumn": 107,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 107,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 97,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 97,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 108,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 108,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 98,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 98,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endColumn": 102,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 102,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 117,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 117,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endColumn": 97,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1881,
+                        "endColumn": 97,
+                        "endOffset": 1974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 257,
+                    "endOffset": 2282
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-is-rIS/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 261,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2287,
+                    "endColumn": 100,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-is-rIS/values-is-rIS.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -789,18 +1212,18 @@
         ]
     },
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-is-rIS\\values-is-rIS.xml",
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-is-rIS\\values-is-rIS.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 99,
-                    "endOffset": 200
+                    "endOffset": 150
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -814,12 +1237,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 205,
+                    "startOffset": 155,
                     "endColumn": 107,
-                    "endOffset": 308
+                    "endOffset": 258
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -833,12 +1256,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 313,
+                    "startOffset": 263,
                     "endColumn": 122,
-                    "endOffset": 431
+                    "endOffset": 381
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -852,12 +1275,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 436,
+                    "startOffset": 386,
                     "endColumn": 96,
-                    "endOffset": 528
+                    "endOffset": 478
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -871,12 +1294,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 533,
+                    "startOffset": 483,
                     "endColumn": 111,
-                    "endOffset": 640
+                    "endOffset": 590
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -890,12 +1313,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 645,
+                    "startOffset": 595,
                     "endColumn": 84,
-                    "endOffset": 725
+                    "endOffset": 675
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -909,12 +1332,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 730,
+                    "startOffset": 680,
                     "endColumn": 100,
-                    "endOffset": 826
+                    "endOffset": 776
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -928,12 +1351,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 831,
+                    "startOffset": 781,
                     "endColumn": 113,
-                    "endOffset": 940
+                    "endOffset": 890
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -947,12 +1370,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 945,
+                    "startOffset": 895,
                     "endColumn": 79,
-                    "endOffset": 1020
+                    "endOffset": 970
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -966,12 +1389,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1025,
+                    "startOffset": 975,
                     "endColumn": 79,
-                    "endOffset": 1100
+                    "endOffset": 1050
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -985,12 +1408,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1105,
+                    "startOffset": 1055,
                     "endColumn": 80,
-                    "endOffset": 1181
+                    "endOffset": 1131
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1004,12 +1427,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1186,
+                    "startOffset": 1136,
                     "endColumn": 109,
-                    "endOffset": 1291
+                    "endOffset": 1241
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1023,12 +1446,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1296,
+                    "startOffset": 1246,
                     "endColumn": 107,
-                    "endOffset": 1399
+                    "endOffset": 1349
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1042,12 +1465,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1404,
+                    "startOffset": 1354,
                     "endColumn": 97,
-                    "endOffset": 1497
+                    "endOffset": 1447
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1061,12 +1484,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1502,
+                    "startOffset": 1452,
                     "endColumn": 108,
-                    "endOffset": 1606
+                    "endOffset": 1556
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1080,12 +1503,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1611,
+                    "startOffset": 1561,
                     "endColumn": 98,
-                    "endOffset": 1705
+                    "endOffset": 1655
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1099,12 +1522,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1710,
+                    "startOffset": 1660,
                     "endColumn": 102,
-                    "endOffset": 1808
+                    "endOffset": 1758
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1118,12 +1541,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1813,
+                    "startOffset": 1763,
                     "endColumn": 117,
-                    "endOffset": 1926
+                    "endOffset": 1876
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1137,12 +1560,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1931,
+                    "startOffset": 1881,
                     "endColumn": 97,
-                    "endOffset": 2024
+                    "endOffset": 1974
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1156,31 +1579,12 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2029,
-                    "endColumn": 257,
-                    "endOffset": 2282
-                },
-                "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-is-rIS\\common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 261,
-                        "endOffset": 427
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2287,
+                    "startOffset": 1979,
                     "endColumn": 100,
-                    "endOffset": 2383
+                    "endOffset": 2075
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-is-rIS\\values-is-rIS.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

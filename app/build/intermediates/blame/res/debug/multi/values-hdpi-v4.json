@@ -26,6 +26,32 @@
         ]
     },
     {
+        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\Android_Projects\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
@@ -52,7 +78,7 @@
         ]
     },
     {
-        "outputFile": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -64,7 +90,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/media/mayur/Studies/menuick/Menuick/E:\\media\\mayur\\Studies\\menuick\\Menuick\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/anshul/AndroidStudioProjects/Menuick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
